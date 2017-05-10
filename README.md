@@ -1,5 +1,5 @@
 # slideviewer
- SlideViwer is a high level java API that describes the behaviour of a generic digital slide image viewer.
+ SlideViewer is a high level java API that describes the behaviour of a generic digital slide image viewer.
 
 This allows one to create applications such as SlideTutor ITS that are agnostic to vendor sepcific details of the viewer implementation.
 
